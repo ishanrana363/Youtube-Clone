@@ -1,11 +1,13 @@
 import React from 'react'
+import Header from './component/layout/Header';
 
 const App = () => {
   return (
     <div>
-      <h1>ishan</h1>
+      <Header/>
     </div>
   )
 }
 
 export default App
+
